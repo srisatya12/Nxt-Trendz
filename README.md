@@ -10,6 +10,10 @@ In this project, let's build a **Nxt Trendz - Cart Features** by applying the co
 </div>
 <br/>
 
+
+https://github.com/user-attachments/assets/a2e1e46b-3aa7-42b3-9ee6-ea235550e1f9
+
+
 ### Design Files
 
 <details>
